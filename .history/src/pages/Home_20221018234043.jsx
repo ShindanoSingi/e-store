@@ -6,7 +6,7 @@ import heroImg from "../assets/images/hero-img.png";
 
 import { Container, Row, Col } from "reactstrap";
 
-import "../styles/Home.css";
+import hme
 
 const Home = () => {
     const year = new Date().getFullYear();
